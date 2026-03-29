@@ -28,3 +28,9 @@ console.log(Boolean(null));
 console.log(Boolean('42'));
 console.log(Number(''));
 console.log((42).toString());
+
+
+
+console.log(5==5);
+console.log(5==5==5==5);
+console.log(5==5==5==0);
