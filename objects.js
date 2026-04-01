@@ -21,3 +21,4 @@ console.log(company.location.city);
 
 console.log(Object.keys(company));
 console.log(Object.values(company));
+
